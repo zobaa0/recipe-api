@@ -11,7 +11,6 @@ This API allows users to share recipes and find recipes. It is developed using D
 - Password reset functionality.
 - Documentation using `drf_spectacular` which support OAS3.
 - Unit test using coverage and factory boy.
-- Frontend is built using React.js and can be found [here](https://github.com/earthcomfy/Recipe-app).
 
 ## Quick Start
 
